@@ -99,10 +99,11 @@ WSGI_APPLICATION = 'SDSAPI.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'storedocuments',
-        'USER':'postgres',
-        'PASSWORD':'batheJa6',
-        'HOST':'localhost',
+        'NAME': 'df6ujs2gsfduf5',
+        'USER':'liifwvcvqfjymf',
+        'PASSWORD':'a1910b25cfe7fe152d31e884aa44fef033bde19e85efb4af9c6a6cc8aee837e5',
+        'HOST':'ec2-34-202-178-115.compute-1.amazonaws.com',
+        'PORT':'5432',
     }
 }
 
